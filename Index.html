@@ -23,12 +23,12 @@
                     createTable(this);
                 }
             };
-            xmlhttp.open("GET", "Games.xml.xml", true);
+            xmlhttp.open("GET", "Games.xml", true);
             xmlhttp.send();
         }
         
         function createTable(xml) {
-            var i, xmlDoc, txt;
+            var j, i, xmlDoc, txt;
             
             // Actual XML File Object mode
             xmlDoc = xml.responseXML; 
@@ -47,9 +47,9 @@
             var GameDeveloper = xmlDoc.getElementsByTagName("Developer");
             var GamePublisher = xmlDoc.getElementsByTagName("Publisher");
             var GameRelease = xmlDoc.getElementsByTagName("Release_Date");
-            var GameTags = xmlDoc.getElementsByTagName("Game_Tags");
+            var Tags = xmlDoc.getElementsByTagName("Tags");
                 
-            for(1 = 0; i < GameTitle.length; i++){
+            for(i = 0; i < GameTitle.length; i++){
                 txt += `
                     <tr>
                         <td>${GameTitle[i].childNodes[0].nodeValue}</td>
@@ -57,10 +57,10 @@
                         <td>${GamePublisher[i].childNodes[0].nodeValue}</td>
                         <td>${GameRelease[i].childNodes[0].nodeValue}</td>
                         <td>
-                        `; for( j = 0; j<=5; j++){
+                        `; for( j = 0; j<=4; j++){
                             txt +=`
                         <ul>
-                        <li>${GameTags[j].childNodes[0].nodeValue}</li>
+                        <li>${Tags[j].childNodes[0].nodeValue}</li>
                         </ul>   
                         `}`
                         </td>
