@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Games>
+    <Game_Type type = "1">
+        <Shooting_Games>
+            <First_Shooter id = "1">
+                <title> Resident Evil: Village </title>
+                <Developer> CAPCOM Co., Ltd. </Developer>
+                <Publisher> CAPCOM Co., Ltd. </Publisher>
+                <Release_Date> 7 May, 2021 </Release_Date> 
+                <Related_Tags> Survival Horror, Single player <Related_Tags> 
+            </First_Shooter>
+        </Shooting_Games>
+        <Game_Tags>
+        <Tags id = "1" > <tags>
+        </Game_Tags>
+
+
+
+
+
+    </Game_Type>
+</Games>
