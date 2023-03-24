@@ -4,20 +4,140 @@
     <Game_Type type = "1">
         <Shooting_Games>
             <First_Shooter id = "1">
-                <title> Resident Evil: Village </title>
+                <Title> Resident Evil: Village </Title>
                 <Developer> CAPCOM Co., Ltd. </Developer>
                 <Publisher> CAPCOM Co., Ltd. </Publisher>
                 <Release_Date> 7 May, 2021 </Release_Date> 
-                <Related_Tags> Survival Horror, Single player <Related_Tags> 
             </First_Shooter>
+            <Game_Tags>
+            <Tags id = "1"> Survival Horror <Tags>
+            <Tags id = "2"> Single Player <Tags>
+            <Tags id = "3"> Role Playing <Tags>
+            <Tags id = "4"> Horror<Tags>
+            <Tags id = "5"> Action<Tags>
+            </Game_Tags>
+
+            <Third_Person_Shooter id = "2">
+                <Title> Days Gone </Title>
+                <Developer> Bend Studio</Developer>
+                <Publisher> PlayStation PC LLC </Publisher> 
+                <Release_Date> 18 May, 2021 </Release_Date> 
+            </Third_Person_Shooter>
+            <Game_Tags>
+            <Tags id = "1"> Survival Horror <Tags>
+            <Tags id = "2"> Zombies <Tags>
+            <Tags id = "3"> Role Playing <Tags>
+            <Tags id = "4"> Single Player<Tags>
+            <Tags id = "5"> Action<Tags>
+            </Game_Tags>
         </Shooting_Games>
-        <Game_Tags>
-        <Tags id = "1" > <tags>
-        </Game_Tags>
+    </Game_Type>
+    <Game_Type type = "2">
+        <Role-playing>
+            <Action id = "1">
+                <Title> ELDEN RING </Title>
+                <Developer> FromSoftware Inc. </Developer>
+                <Publisher> FromSoftware Inc., Bandai Namco Entertainment </Publisher> 
+                <Release_Date> 25 Feb, 2022 </Release_Date> 
+            </Action>
+            <Game_Tags>
+            <Tags id = "1"> Dark Fantasy <Tags>
+            <Tags id = "2"> Open World <Tags>
+            <Tags id = "3"> Role Playing <Tags>
+            <Tags id = "4"> Single Player<Tags>
+            <Tags id = "5"> Soul-like <Tags>
+            </Game_Tags>
 
-
-
-
-
+            <Adventure id = "2">
+                <Title> Horizon Zero Dawn </Title>
+                <Developer> Guerrilla </Developer>
+                <Publisher> PlayStation PC LLC </Publisher> 
+                <Release_Date> 7 Aug, 2020 </Release_Date> 
+            </Adventure>
+            <Game_Tags>
+            <Tags id = "1"> Female Protagonist <Tags>
+            <Tags id = "2"> Open World <Tags>
+            <Tags id = "3"> Role Playing <Tags>
+            <Tags id = "4"> Mecha<Tags>
+            <Tags id = "5"> RPG <Tags>
+            </Game_Tags>
+        </Role-playing>
+    </Game_Type>
+    <Game_Type type = "3">
+        <MOBA>
+            <Action id = "1">
+                <Title> League Of Legends </Title>
+                <Developer> Riot Games </Developer>
+                <Publisher> Riot Games </Publisher> 
+                <Release_Date> Oct. 27, 2009 </Release_Date> 
+            </Action>
+            <Game_Tags>
+            <Tags id = "1"> Multiplayer <Tags>
+            <Tags id = "2"> Battle Royal <Tags>
+            <Tags id = "3"> Role Playing <Tags>
+            <Tags id = "4"> Free to Play<Tags>
+            <Tags id = "5"> RPG <Tags>
+            </Game_Tags>
+        </MOBA>
+    </Game_Type>
+    <Game_Type type = "4">
+        <PuzzlersAndParty>
+            <Strategy id = "1">
+                <Title> The Jackbox Party Pack </Title>
+                <Developer> Jackbox Games, Inc. </Developer>
+                <Publisher> Jackbox Games, Inc. </Publisher> 
+                <Release_Date> 27 Nov, 2014 </Release_Date> 
+            </Strategy>
+            <Game_Tags>
+            <Tags id = "1"> Trivia <Tags>
+            <Tags id = "2"> Party <Tags>
+            <Tags id = "3"> Funny <Tags>
+            <Tags id = "4"> Free to Play<Tags>
+            <Tags id = "5"> Local Multiplayer <Tags>
+            </Game_Tags>
+            <Indie id = "2">
+                <title> Unpacking </title>
+                <Developer> Witch Beam </Developer>
+                <Publisher> Humble Games </Publisher> 
+                <Release_Date> 2 Nov, 2021 </Release_Date> 
+            </Indie>
+            <Game_Tags>
+            <Tags id = "1"> Casual <Tags>
+            <Tags id = "2"> Pixel Graphic <Tags>
+            <Tags id = "3"> Relaxing <Tags>
+            <Tags id = "4"> Cute <Tags>
+            <Tags id = "5"> Single Player <Tags>
+            </Game_Tags>
+        </PuzzlersAndParty>
+    </Game_Type>
+    <Game_Type type = "5">
+        <Platformer>
+             <Horror id = "1">
+                <title> LIMBO </title>
+                <Developer>  Playdead </Developer>
+                <Publisher>  Playdead </Publisher> 
+                <Release_Date> 3 Aug, 2011 </Release_Date> 
+            </Horror>
+            <Game_Tags>
+            <Tags id = "1"> Platformer <Tags>
+            <Tags id = "2"> 2D <Tags>
+            <Tags id = "3"> Puzzle <Tags>
+            <Tags id = "4"> Indie <Tags>
+            <Tags id = "5"> Single Player <Tags>
+            </Game_Tags>
+            <Adventure id = "2">
+                <title> Little Nightmares </title>
+                <Developer> Tarsier Studios </Developer>
+                <Publisher> BANDAI NAMCO Entertainment </Publisher> 
+                <Release_Date> 11 Feb, 2021 </Release_Date> 
+            </Adventure>
+            <Game_Tags>
+            <Tags id = "1"> Platformer <Tags>
+            <Tags id = "2"> 2D <Tags>
+            <Tags id = "3"> Dark <Tags>
+            <Tags id = "4"> Puzzle <Tags>
+            <Tags id = "5"> Single Player <Tags>
+            </Game_Tags>
+        </Platformer>
     </Game_Type>
 </Games>
