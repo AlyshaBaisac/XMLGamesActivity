@@ -8,28 +8,28 @@
                 <Developer> CAPCOM Co., Ltd. </Developer>
                 <Publisher> CAPCOM Co., Ltd. </Publisher>
                 <Release_Date> 7 May, 2021 </Release_Date> 
-            </First_Shooter>
             <Game_Tags>
-            <Tags id = "1"> Survival Horror <Tags>
-            <Tags id = "2"> Single Player <Tags>
-            <Tags id = "3"> Role Playing <Tags>
-            <Tags id = "4"> Horror<Tags>
-            <Tags id = "5"> Action<Tags>
+            <Tags id = "1"> Survival Horror </Tags>
+            <Tags id = "2"> Single Player </Tags>
+            <Tags id = "3"> Role Playing </Tags>
+            <Tags id = "4"> Horror</Tags>
+            <Tags id = "5"> Action</Tags>
             </Game_Tags>
+            </First_Shooter>
 
             <Third_Person_Shooter id = "2">
                 <Title> Days Gone </Title>
                 <Developer> Bend Studio</Developer>
                 <Publisher> PlayStation PC LLC </Publisher> 
                 <Release_Date> 18 May, 2021 </Release_Date> 
-            </Third_Person_Shooter>
             <Game_Tags>
-            <Tags id = "1"> Survival Horror <Tags>
-            <Tags id = "2"> Zombies <Tags>
-            <Tags id = "3"> Role Playing <Tags>
-            <Tags id = "4"> Single Player<Tags>
-            <Tags id = "5"> Action<Tags>
+            <Tags id = "1"> Survival Horror </Tags>
+            <Tags id = "2"> Zombies </Tags>
+            <Tags id = "3"> Role Playing </Tags>
+            <Tags id = "4"> Single Player</Tags>
+            <Tags id = "5"> Action</Tags>
             </Game_Tags>
+            </Third_Person_Shooter>
         </Shooting_Games>
     </Game_Type>
     <Game_Type type = "2">
@@ -41,11 +41,11 @@
                 <Release_Date> 25 Feb, 2022 </Release_Date> 
             </Action>
             <Game_Tags>
-            <Tags id = "1"> Dark Fantasy <Tags>
-            <Tags id = "2"> Open World <Tags>
-            <Tags id = "3"> Role Playing <Tags>
-            <Tags id = "4"> Single Player<Tags>
-            <Tags id = "5"> Soul-like <Tags>
+            <Tags id = "1"> Dark Fantasy </Tags>
+            <Tags id = "2"> Open World </Tags>
+            <Tags id = "3"> Role Playing </Tags>
+            <Tags id = "4"> Single Player</Tags>
+            <Tags id = "5"> Soul-like </Tags>
             </Game_Tags>
 
             <Adventure id = "2">
@@ -55,11 +55,11 @@
                 <Release_Date> 7 Aug, 2020 </Release_Date> 
             </Adventure>
             <Game_Tags>
-            <Tags id = "1"> Female Protagonist <Tags>
-            <Tags id = "2"> Open World <Tags>
-            <Tags id = "3"> Role Playing <Tags>
-            <Tags id = "4"> Mecha<Tags>
-            <Tags id = "5"> RPG <Tags>
+            <Tags id = "1"> Female Protagonist </Tags>
+            <Tags id = "2"> Open World </Tags>
+            <Tags id = "3"> Role Playing </Tags>
+            <Tags id = "4"> Mecha</Tags>
+            <Tags id = "5"> RPG </Tags>
             </Game_Tags>
         </Role-playing>
     </Game_Type>
@@ -72,11 +72,11 @@
                 <Release_Date> Oct. 27, 2009 </Release_Date> 
             </Action>
             <Game_Tags>
-            <Tags id = "1"> Multiplayer <Tags>
-            <Tags id = "2"> Battle Royal <Tags>
-            <Tags id = "3"> Role Playing <Tags>
-            <Tags id = "4"> Free to Play<Tags>
-            <Tags id = "5"> RPG <Tags>
+            <Tags id = "1"> Multiplayer </Tags>
+            <Tags id = "2"> Battle Royal </Tags>
+            <Tags id = "3"> Role Playing </Tags>
+            <Tags id = "4"> Free to Play</Tags>
+            <Tags id = "5"> RPG </Tags>
             </Game_Tags>
         </MOBA>
     </Game_Type>
@@ -89,11 +89,11 @@
                 <Release_Date> 27 Nov, 2014 </Release_Date> 
             </Strategy>
             <Game_Tags>
-            <Tags id = "1"> Trivia <Tags>
-            <Tags id = "2"> Party <Tags>
-            <Tags id = "3"> Funny <Tags>
-            <Tags id = "4"> Free to Play<Tags>
-            <Tags id = "5"> Local Multiplayer <Tags>
+            <Tags id = "1"> Trivia </Tags>
+            <Tags id = "2"> Party </Tags>
+            <Tags id = "3"> Funny </Tags>
+            <Tags id = "4"> Free to Play</Tags>
+            <Tags id = "5"> Local Multiplayer </Tags>
             </Game_Tags>
             <Indie id = "2">
                 <title> Unpacking </title>
@@ -102,11 +102,11 @@
                 <Release_Date> 2 Nov, 2021 </Release_Date> 
             </Indie>
             <Game_Tags>
-            <Tags id = "1"> Casual <Tags>
-            <Tags id = "2"> Pixel Graphic <Tags>
-            <Tags id = "3"> Relaxing <Tags>
-            <Tags id = "4"> Cute <Tags>
-            <Tags id = "5"> Single Player <Tags>
+            <Tags id = "1"> Casual </Tags>
+            <Tags id = "2"> Pixel Graphic </Tags>
+            <Tags id = "3"> Relaxing </Tags>
+            <Tags id = "4"> Cute </Tags>
+            <Tags id = "5"> Single Player </Tags>
             </Game_Tags>
         </PuzzlersAndParty>
     </Game_Type>
@@ -119,11 +119,11 @@
                 <Release_Date> 3 Aug, 2011 </Release_Date> 
             </Horror>
             <Game_Tags>
-            <Tags id = "1"> Platformer <Tags>
-            <Tags id = "2"> 2D <Tags>
-            <Tags id = "3"> Puzzle <Tags>
-            <Tags id = "4"> Indie <Tags>
-            <Tags id = "5"> Single Player <Tags>
+            <Tags id = "1"> Platformer </Tags>
+            <Tags id = "2"> 2D </Tags>
+            <Tags id = "3"> Puzzle </Tags>
+            <Tags id = "4"> Indie </Tags>
+            <Tags id = "5"> Single Player </Tags>
             </Game_Tags>
             <Adventure id = "2">
                 <title> Little Nightmares </title>
@@ -132,11 +132,11 @@
                 <Release_Date> 11 Feb, 2021 </Release_Date> 
             </Adventure>
             <Game_Tags>
-            <Tags id = "1"> Platformer <Tags>
-            <Tags id = "2"> 2D <Tags>
-            <Tags id = "3"> Dark <Tags>
-            <Tags id = "4"> Puzzle <Tags>
-            <Tags id = "5"> Single Player <Tags>
+            <Tags id = "1"> Platformer </Tags>
+            <Tags id = "2"> 2D </Tags>
+            <Tags id = "3"> Dark </Tags>
+            <Tags id = "4"> Puzzle </Tags>
+            <Tags id = "5"> Single Player </Tags>
             </Game_Tags>
         </Platformer>
     </Game_Type>
